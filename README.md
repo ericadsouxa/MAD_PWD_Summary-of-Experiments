@@ -3,7 +3,7 @@
 This repo consists of all the files related to the MAD_PWA Lab along with Experiments and Mini project
 
 | DATE | Experiment No.  | Experiment Detail | Github URL |
-|      | ------------- | ------------- | ------------- |
+|------| ------------- | ------------- | ------------- |
 |      | Exp 01  |  First Flutter App  | Content Cell  |
 |      | Exp 02  | Profile Page App (Stateless)  | Content Cell  |
 |      | Exp 03  | Profile Page App (Stateful) | Content Cell  |
