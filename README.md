@@ -14,4 +14,4 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 |      |  08  |  |  |
 |      |  09  |  |  |
 |      |  10  |  |  |
-|      | Mini Project  |   |   |
+|      | Mini Project  |   |https://github.com/ericadsouxa/MAD_PWD_Miniproject.git |
